@@ -16,10 +16,10 @@ let isShuffling = false;
 let isReplaying = false;
 
 let songs = [
-    { songName: "Golden hour", filePath: "songs/1.mp3", coverPath: "covers/1.jpeg" },
-    { songName: "Loosu Penne", filePath: "songs/2.mp3", coverPath: "covers/2.jpeg" },
-    { songName: "Vaarayo Vaarayo", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
-    { songName: "Anbe en Anbe", filePath: "songs/4.mp3", coverPath: "covers/4.jpg" },
+    { songName: "Golden hour", filePath: "1.mp3", coverPath: "covers/1.jpeg" },
+    { songName: "Loosu Penne", filePath: "2.mp3", coverPath: "covers/2.jpeg" },
+    { songName: "Vaarayo Vaarayo", filePath: "3.mp3", coverPath: "covers/3.jpg" },
+    { songName: "Anbe en Anbe", filePath: "4.mp3", coverPath: "covers/4.jpg" },
 ];
 
 songItems.forEach((element, i) => {
